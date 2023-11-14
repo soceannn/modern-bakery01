@@ -407,7 +407,7 @@ address {
 }
 
 .address-link:hover {
-  color: var(--color-brand-dark);
+  color: var(--color-brand-normal);
 }
 
 .address-icon {
